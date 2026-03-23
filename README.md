@@ -1,5 +1,13 @@
 # 💫 About Me:
-3D Cherry Blossom Tea Garden game with React + Three.js. Building Next.js projects and JavaScript blog series with interactive HTML artifacts.<br><br>👥<br>Open to Collaborate<br>Full-stack JavaScript/TypeScript projects and open-source developer tools. SaaS architecture and educational content.<br><br>💛<br>Looking for Help<br>Three.js optimization for 3D web experiences. Mobile game UX and growing developer brand on LinkedIn & X.<br><br>🌱<br>Currently Learning<br>Next.js with project-based roadmap. API design, architecture patterns, and advanced Blender animation.<br><br>💬<br>Ask Me About<br>Full-stack development, 3D graphics with Blender, developer personal branding, and secure backend architecture.<br><br>⚡<br>Fun Fact<br>I merge web development with 3D art—building interactive games that combine both worlds.
+## 👋 Hi, I'm Lalit
+
+🎓 BTech Student at NIT Patna  
+💻 Web Developer passionate about building modern and scalable web applications  
+
+### 🚀 What I Do
+- Build full-stack web applications using **HTML, CSS, JavaScript, React.js, Node.js, and MongoDB**
+- Work with **REST APIs and authentication systems**
+- Explore new technologies and contribute to development projects
 
 
 ## 🌐 Socials:
