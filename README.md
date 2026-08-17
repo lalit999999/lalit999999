@@ -230,8 +230,8 @@ Docker • GitHub Actions • CI/CD • Nginx • Cloud Deployments • Git • 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalit999999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalit999999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&langs_count=8" height="170"/>
+  <img src="https://readme-stats-github.pages.dev/api?username=lalit999999&theme=shadow" height="170"/>
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=lalit999999&theme=shadow" height="170"/>
 </div>
 
 ---
