@@ -42,6 +42,12 @@ I came up through full-stack engineering — Next.js, Node.js, PostgreSQL, Docke
 
 I care about the unglamorous parts: provider abstractions that don't leak, tool-calling loops that terminate, structured output that validates, and graceful degradation when the model returns garbage.
 
+<div align="center">
+
+**🚀 5000+ users served** • **6 LLM providers unified** • **150+ → <20 lines of agent setup**
+
+</div>
+
 </td>
 <td width="38%" valign="top">
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=lalit999999&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" width="100%"/>
@@ -94,11 +100,22 @@ I care about the unglamorous parts: provider abstractions that don't leak, tool-
 <td>NIT Patna Official Web Team</td>
 <td>Patna, India</td>
 </tr>
+<tr>
+<td><strong>Oct 2024 - Apr 2025</strong></td>
+<td>3D Modeler</td>
+<td>Astomverse</td>
+<td>Patna, India</td>
+</tr>
 </table>
 
+**NIT Patna Official Web Team**
 - Built and deployed full-stack web applications with **Next.js, Node.js, and MySQL**, serving 5000+ users with sub-200ms response times
 - Optimized database queries and implemented **Redis caching**, cutting API response times by 35%
-- Automated the build and release pipeline with **GitHub Actions and Docker**, reducing deployment time from 30 minutes to 5
+- Automated the build and release pipeline with **GitHub Actions and Docker**, reducing deployment time from 30 minutes to 5 minutes
+
+**Astomverse**
+- Built 3D models for startup projects using **Blender**
+- Learned and applied 3D modeling techniques for product visualization and asset creation
 
 ---
 
@@ -112,24 +129,24 @@ I care about the unglamorous parts: provider abstractions that don't leak, tool-
 </tr>
 <tr>
 <td valign="top">
-<strong><a href="https://github.com/lalit999999/aniki">Aniki SDK</a></strong><br/>
-<sub><a href="https://github.com/lalit999999/aniki">Code</a> · <a href="https://lalitgurjar.in">Docs</a></sub>
+<strong><a href="https://github.com/lalit999999/aniki-sdk">Aniki SDK</a></strong><br/>
+<sub><a href="https://github.com/lalit999999/aniki-sdk">Code</a> · <a href="https://aniki.lalitgurjar.in">Docs</a></sub>
 </td>
 <td valign="top">Provider-agnostic TypeScript SDK for building AI agents. 9 decoupled modules, one interface over 6 LLM providers, and a recursive tool-calling runtime that takes a working tool-enabled agent from 150+ lines to under 20.</td>
 <td valign="top">TypeScript · Node.js · Zod · Vitest · tsup · NestJS · MDX</td>
 </tr>
 <tr>
 <td valign="top">
-<strong><a href="https://github.com/lalit999999/superalien">SuperAlien</a></strong><br/>
-<sub><a href="https://github.com/lalit999999/superalien">Code</a> · <a href="https://lalitgurjar.in">Live</a></sub>
+<strong><a href="https://github.com/lalit999999/super-alien">SuperAlien</a></strong><br/>
+<sub><a href="https://github.com/lalit999999/super-alien">Code</a> · <a href="https://superalein.lalitgurjar.in">Live</a></sub>
 </td>
 <td valign="top">AI-powered Gmail &amp; Calendar productivity platform. OAuth 2.0 integration with a webhook-driven realtime sync pipeline, an email summarization engine with an MCP adapter, and per-user rate limiting.</td>
 <td valign="top">Next.js · TypeScript · PostgreSQL · Prisma · OpenAI · Redis · Razorpay</td>
 </tr>
 <tr>
 <td valign="top">
-<strong><a href="https://github.com/lalit999999/helloclaw">HelloClaw</a></strong><br/>
-<sub><a href="https://github.com/lalit999999/helloclaw">Code</a></sub>
+<strong><a href="https://github.com/lalit999999/HelloClaw">HelloClaw</a></strong><br/>
+<sub><a href="https://github.com/lalit999999/HelloClaw">Code</a></sub>
 </td>
 <td valign="top">AI-powered CLI and task automation tool. Intelligent task breakdown with a strict user-approval workflow before any file write or shell command, extended into a remote Telegram bot interface.</td>
 <td valign="top">TypeScript · Node.js · OpenRouter · Commander.js · Zod · Telegraf · Firecrawl</td>
@@ -223,7 +240,9 @@ Docker • GitHub Actions • CI/CD • Nginx • Cloud Deployments • Git • 
 
 ### Connect With Me
 
-I'm currently looking for **Software Engineering** and **AI Engineering** internships. If you're building something at the intersection of products and LLMs, I'd like to hear about it.
+**I'm actively looking for SWE & AI Engineering internships.**
+
+What excites me: AI-native products, agentic systems, real-time RAG pipelines, provider abstraction patterns, and the intersection of LLMs + full-stack engineering. If you're building there, let's talk.
 
 <table>
 <tr>
